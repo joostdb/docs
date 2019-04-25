@@ -137,7 +137,7 @@ You can use the ``FilterBuilder`` to add filtering conditions::
     });
 
 The `FilterBuilder source
-<https://github.com/cakephp/elastic-search/blob/master/src/FilterBuilder.php>`_
+<https://github.com/cakephp/elastic-search/blob/master/src/QueryBuilder.php>`_
 has the complete list of methods with examples for many commonly used methods.
 
 Validating Data & Using Application Rules
